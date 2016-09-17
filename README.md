@@ -1,2 +1,3 @@
-# udacity_google_deep_learning
-Practices for Google's deep learning course on Udacity
+# Google's Deep Learning Course on Udacity
+
+This repo is my practices for Google's deep learning course on Udacity.
