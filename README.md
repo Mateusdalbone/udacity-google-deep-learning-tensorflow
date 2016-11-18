@@ -6,6 +6,7 @@
 - [assg1_notmnist_sol.ipynb](./notebook/assg1_notmnist_sol.ipynb)
 - [assg2_fullyconnected_sol.ipynb](./notebook/assg2_fullyconnected_sol.ipynb)
 - [assg3_regularization_sol.ipynb](./notebook/assg3_regularization_sol.ipynb)
+- [assg4_convolutions_sol.ipynb](./notebook/assg4_convolutions_sol.ipynb)
 
 ## Quizzes
 - [lect1_quiz.ipynb](./notebook/lect1_quiz.ipynb)
