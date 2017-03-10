@@ -4,11 +4,20 @@
 
 ## Assignments
 
-- [assg1_notmnist_sol.ipynb](./notebook/assg1_notmnist_sol.ipynb)
-- [assg2_fullyconnected_sol.ipynb](./notebook/assg2_fullyconnected_sol.ipynb)
-- [assg3_regularization_sol.ipynb](./notebook/assg3_regularization_sol.ipynb)
-- [assg4_convolutions_sol.ipynb](./notebook/assg4_convolutions_sol.ipynb)
+- [1_notmnist.ipynb](./notebook/1_notmnist.ipynb)
+- [2_fullyconnected.ipynb](./notebook/2_fullyconnected.ipynb)
+- [3_regularization.ipynb](./notebook/3_regularization.ipynb)
+- [4_convolutions.ipynb](./notebook/4_convolutions.ipynb)
+- [5_word2vec.ipynb](./notebook/5_word2vec.ipynb)
+- [6_lstm_sol.ipynb](./notebook/6_lstm_sol.ipynb)
+
+## Solutions
+
+- [1_notmnist_sol.ipynb](./notebook/1_notmnist_sol.ipynb)
+- [2_fullyconnected_sol.ipynb](./notebook/2_fullyconnected_sol.ipynb)
+- [3_regularization_sol.ipynb](./notebook/3_regularization_sol.ipynb)
+- [4_convolutions_sol.ipynb](./notebook/4_convolutions_sol.ipynb)
 
 ## Quizzes
 
-- [lect1_quiz.ipynb](./notebook/lect1_quiz.ipynb)
+- [quizzes.ipynb](./notebook/quizzes.ipynb)
