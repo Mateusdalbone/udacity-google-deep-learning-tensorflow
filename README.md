@@ -1,6 +1,6 @@
 # Google's Deep Learning Course on Udacity
 
-[Google's Deep Learning course on Udacity in TensorFlow](https://www.udacity.com/course/deep-learning--ud730), which was taught by [Vincent Vanhoucke](http://research.google.com/pubs/VincentVanhoucke.html), Principal Scientist at Google, is really great! This repo is to collect my solutions to the corresponding assignments and quizzes.
+Python TensorFlow solutions for [Google's Deep Learning course on Udacity in TensorFlow](https://www.udacity.com/course/deep-learning--ud730), which was taught by [Vincent Vanhoucke](http://research.google.com/pubs/VincentVanhoucke.html), Principal Scientist at Google.
 
 ## Assignments
 
